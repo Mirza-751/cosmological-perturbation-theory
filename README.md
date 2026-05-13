@@ -1,6 +1,6 @@
 # Cosmological perturbations in synchronous and Newtonian gauges
 
-**Full report**: [View PDF](theoretical_cosm_mustafa.pdf)
+**Full report**: [View PDF](Cosmo_perturbations_synchronous_newtonian.pdf)
 
 ## Summary
 A formal treatment of linear cosmological perturbation theory, following Ma & Bertschinger (1995). Covers:
